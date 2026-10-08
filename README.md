@@ -409,8 +409,8 @@ Provides the interactive command-line interface.
 ## 1. Clone the repository
 
 ```bash
-git clone 
-cd Mediknow_AI
+git clone https://github.com/DataProjectHub/mediknow-ai.git
+cd mediknow-ai
 ```
 
 ---
@@ -1115,6 +1115,7 @@ MIT License
 
 ## Author
 
-Independent AI engineering project.
+Independent AI engineering project by Pooja Anilkumar.
+https://www.linkedin.com/in/pooja-a-8b678637/
 
 **MediKnow AI — Building RAG systems that know not only how to answer, but also when the evidence is not enough.**
